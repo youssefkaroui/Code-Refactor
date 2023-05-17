@@ -42,6 +42,7 @@ a {
 body {
     background-color: #d9dcd6;
 }
+
 .hero {
     height: 800px;
     width: 100%;
@@ -57,7 +58,7 @@ body {
 }
 
 
-
+/*content section styling*/
 
 .content {
     width: 75%;
