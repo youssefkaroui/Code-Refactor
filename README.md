@@ -1,12 +1,24 @@
-# Code Refactor Starter Code
+#   Code Refactor 
 
-x   Purpose
+## Purpose
+
 Horiseon is a web application that follows accessibility standards and optimized for search engines 
 
-Built with:
+### Installation
 
-*CSS 
-*HTMl
+Launch the website on your default browser
 
+#### Built with:
+
+                   CSS 
+                   HTMl
+#####   Deployment
+
+https://youssefkaroui.github.io/Code-Refactor/
+
+
+######   Contribution  
+
+Youssef Karoui
 
 
