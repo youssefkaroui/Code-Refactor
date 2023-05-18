@@ -1,5 +1,5 @@
 #   Code Refactor 
-![alt text](./Develop/assets/images/readme-screenshot1.png) "How it looks like")
+![alt text](./Develop/assets/images/readme-screenshot1.png) How it looks like
 ## Purpose
 
 Horiseon is a web application that follows accessibility standards; and is optimized for search engines 
